@@ -1,0 +1,62 @@
+.navbar-nav li{
+    font-weight: bold;
+   font-family: Bitter,Georgia,Times,"Times New Roman",serif;
+   font-size: 1.2em;
+}
+nav ul li{
+    float: left;
+}
+.blogpost{
+	background-color:#ffffff;
+	padding-left: 10px;
+	padding-right: 10px;
+  padding-top: 10px;
+	overflow: hidden;
+}
+#heading{
+  font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+  font-weight: bold;
+   color: #005E90;
+}
+#heading:hover{
+  color: #0090DB;
+}
+.description{
+    color: #868686;
+    font-weight:bold;
+    margin-top:-2px;
+}
+
+.post{
+     font-size: 1.1em;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      text-align: justify;
+}
+.btn-info{
+    float: right;
+}
+.fieldinfo{
+    color: rgb(251, 174, 44);
+    font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+    font-size: 1.2em;
+}
+.commentblock{
+background-color:#F6F7F9;
+}
+.commentinfo{
+	color: #365899;
+	font-family: sans-serif;
+	font-size: 1.1em;
+	font-weight: bold;
+	padding-top: 10px;
+
+
+}
+.comment{
+    margin-top:-2px;
+    padding-bottom: 10px;
+    font-size: 1.1em
+}
+.background{
+    background-color:#F6F7F9;
+}
